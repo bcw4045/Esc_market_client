@@ -16,7 +16,7 @@ body{
 
 
 #body{
-    height: 100%;
+    height: 100vh;
     width : 1024px;
     margin: 0 auto;
     padding-bottom : 24px;
@@ -101,6 +101,11 @@ body{
 .seller-img{
     width: 20px;
     height: 20px;
+}
+
+.product-link{
+    color:inherit;
+    text-decoration: none;
 }
 
 
